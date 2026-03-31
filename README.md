@@ -1,3 +1,7 @@
+<p align=center>
+  <img width="255" height="255" alt="image" src="https://github.com/user-attachments/assets/0715c632-6962-4fd7-923e-b1889d90f3a3" />
+</p>
+
 # Sound Lab
 
 [![](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-donate-white.svg)](https://buymeacoffee.com/abodi)
